@@ -30,6 +30,6 @@ This will probe the files to determine whether they contain an audio track, but 
 
 ## Installation
 1. Make a directory to contain binaries and scripts if you do not already have one (e.g. `c:\bin`). Let this be called the _bin_ directory.
-2. Make sure that directory is in the _search path._
-3. Build or download _ffmpeg_ and _ffprobe_, and place the binaries in your _bin_ directory.
+2. Make sure the _bin_ directory is in the _search path._
+3. Build or download _ffmpeg_ and _ffprobe_, and place the binaries in the _bin_ directory.
 4. Configure your system to regard `.py` files as executables.
